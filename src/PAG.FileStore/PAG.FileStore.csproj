@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <LangVersion>latest</LangVersion>
+    <LangVersion>7.1</LangVersion>
     <Authors>Andrey Belyaev</Authors>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <PackageProjectUrl>https://gitlab.com/Svetomechc/PAG.FileStore</PackageProjectUrl>
