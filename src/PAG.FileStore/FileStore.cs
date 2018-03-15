@@ -20,7 +20,7 @@ namespace PAG.FileStore
 
         public FileStore(string storePath)
         {
-            Inflector.Inflector.SetDefaultCultureFunc = () => CultureInfo.GetCultureInfo("en-US");
+            Inflector.Inflector.SetDefaultCultureFunc = () => CultureInfo.GetCultureInfo("en");
 
             _storeFiles = new List<T>();
 
