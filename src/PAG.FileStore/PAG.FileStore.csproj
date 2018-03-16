@@ -1,25 +1,25 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
-    <LangVersion>7.1</LangVersion>
-    <Authors>Andrey Belyaev</Authors>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
-    <PackageProjectUrl>https://gitlab.com/Svetomechc/PAG.FileStore</PackageProjectUrl>
-    <RepositoryUrl>https://gitlab.com/Svetomechc/PAG.FileStore</RepositoryUrl>
-    <Version>1.0.0</Version>
-    <Company>Process Automation Group</Company>
+    <Product>PAG.FileStore</Product>
     <Description>Simple JSON file storage</Description>
+    <Version>1.0.1</Version>
+    <Authors>Andrey Belyaev</Authors>
+    <Copyright>Copyright © Andrey Belyaev 2018</Copyright>
+    <Company>Process Automation Group</Company>
+    <RepositoryUrl>https://gitlab.com/Svetomechc/PAG.FileStore</RepositoryUrl>
+
+    <PackageProjectUrl>https://gitlab.com/Svetomechc/PAG.FileStore</PackageProjectUrl>
+    <PackageReleaseNotes>https://gitlab.com/Svetomechc/PAG.FileStore/raw/master/CHANGELOG.md</PackageReleaseNotes>
     <PackageLicenseUrl>https://gitlab.com/Svetomechc/PAG.FileStore/raw/master/LICENSE</PackageLicenseUrl>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
     <PackageTags>json file storage database</PackageTags>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <FileVersion>1.0.0.0</FileVersion>
-    <Product>PAG.FileStore</Product>
-  </PropertyGroup>
 
+    <LangVersion>7.1</LangVersion>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Inflector.NetStandard" Version="1.2.2" />
     <PackageReference Include="Newtonsoft.Json" Version="11.0.1" />
   </ItemGroup>
-
 </Project>
