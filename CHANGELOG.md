@@ -1,1 +1,1 @@
-No changes available at this time
+Updated Newtonsoft.Json to 11.0.2
