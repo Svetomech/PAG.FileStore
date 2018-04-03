@@ -2,10 +2,10 @@
   <PropertyGroup>
     <Product>PAG.FileStore</Product>
     <Description>Simple JSON file storage</Description>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <Authors>Andrey Belyaev</Authors>
-    <Copyright>Copyright © Andrey Belyaev 2018</Copyright>
     <Company>Process Automation Group</Company>
+    <Copyright>Copyright © Process Automation Group 2018</Copyright>
     <RepositoryUrl>https://gitlab.com/Svetomechc/PAG.FileStore</RepositoryUrl>
 
     <PackageProjectUrl>https://gitlab.com/Svetomechc/PAG.FileStore</PackageProjectUrl>
@@ -20,6 +20,6 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Inflector.NetStandard" Version="1.2.2" />
-    <PackageReference Include="Newtonsoft.Json" Version="11.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
   </ItemGroup>
 </Project>
