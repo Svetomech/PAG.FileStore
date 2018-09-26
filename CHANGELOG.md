@@ -1,1 +1,1 @@
-Updated Newtonsoft.Json to 11.0.2
+Switched from Newtonsoft.Json to Utf8Json for better perfomance
