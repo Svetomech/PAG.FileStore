@@ -6,7 +6,7 @@ namespace PAG.FileStore.Runner
 {
   public static class Program
   {
-    public const int N = 100_000;
+    public const int N = 10_000;
 
     public static void Main(string[] args)
     {

@@ -2,14 +2,17 @@
 
   <PropertyGroup>
     <Product>PAG.FileStore</Product>
+    <Title>PAG.FileStore</Title>
     <Description>Simple JSON file storage</Description>
     <Version>1.1.0</Version>
     <Authors>Andrey Belyaev</Authors>
     <Company>Process Automation Group</Company>
     <Copyright>Copyright © Process Automation Group 2018</Copyright>
     <RepositoryUrl>https://gitlab.com/Svetomechc/PAG.FileStore</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
 
     <PackageProjectUrl>https://gitlab.com/Svetomechc/PAG.FileStore</PackageProjectUrl>
+    <PackageIconUrl>https://gitlab.com/Svetomechc/PAG.FileStore/blob/master/FileStore.png</PackageIconUrl>
     <PackageReleaseNotes>https://gitlab.com/Svetomechc/PAG.FileStore/raw/master/CHANGELOG.md</PackageReleaseNotes>
     <PackageLicenseUrl>https://gitlab.com/Svetomechc/PAG.FileStore/raw/master/LICENSE</PackageLicenseUrl>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
